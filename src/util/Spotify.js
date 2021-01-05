@@ -1,4 +1,4 @@
-const clientId = 'd20cbe6a4440405bbe44806626078dc4';
+const clientId = process.env.REACT_APP_API_KEY;
 const redirectUri = 'http://shaqs-spotify-web-app.surge.sh'; 
 
 let accessToken;
