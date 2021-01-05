@@ -1,4 +1,4 @@
-This Spotify web app was created as a project on Codecademy's Web Development Course, from scratch and can be accessed via: http://shaqs-spotify-web-app.surge.sh
+This Spotify web app was created as a project on Codecademy's Web Development Course, from scratch and can be accessed via: https://shaqs-spotify-web-app.surge.sh
 
 This project was created via React, and accesses data from the Spotify API to allow users to log in, search songs by Song, Album or Artist and add these to a custom named playlist, before saving to their personal Spotify accounts.
 
